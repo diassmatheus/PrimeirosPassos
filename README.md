@@ -9,3 +9,5 @@
 - Matplotlib para gerar um gráfico na prática
 - Lógica de programação voltada para Data Science
 - Notebook do zero, seguindo as principais convenções da linguagem e boas práticas de programação
+####  ✅ <a href="https://cursos.alura.com.br/user/diassmatheus/course/python-intro/certificate">Certificado</a>
+  
