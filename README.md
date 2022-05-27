@@ -1,6 +1,7 @@
 # <p align="center"> <b> Curso: Python para Data Science - Primeiros Passos </b> 
 
-####  ✏️ Curso da plataforma Alura <a href="https://cursos.alura.com.br/course/python-intro">link</a> 
+####  📓 <a href="https://github.com/diassmatheus/PrimeirosPassos/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.ipynb">Notebook</a> desenvolvido durante o curso   
+####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/python-intro">Alura</a> 
 ####  ⏰ Duração: 10h 
 ####  📜 Conteúdo:
 - Primeiros códigos em Python
