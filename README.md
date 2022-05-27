@@ -3,8 +3,8 @@
 ####  ✏️ Curso da plataforma Alura. 
 ####  ⏰ Duração: 10h 
 ####  📜 Conteúdo:
-- Escreva e execute seus primeiros códigos em Python
-- Aprenda os fundamentos da linguagem como variáveis, funções, listas, condicionais e imports
-- Utilize o Matplotlib para gerar um gráfico na prática
-- Desenvolva sua lógica de programação voltada para Data Science
-- Crie um notebook do zero, seguindo as principais convenções da linguagem e boas práticas de programação
+- Primeiros códigos em Python
+- Fundamentos da linguagem como variáveis, funções, listas, condicionais e imports
+- Matplotlib para gerar um gráfico na prática
+- Lógica de programação voltada para Data Science
+- Notebook do zero, seguindo as principais convenções da linguagem e boas práticas de programação
