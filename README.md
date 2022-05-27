@@ -1,6 +1,6 @@
 # <p align="center"> <b> Curso: Python para Data Science - Primeiros Passos </b> 
 
-####  ✏️ Curso da plataforma Alura. 
+####  ✏️ Curso da plataforma Alura 
 ####  ⏰ Duração: 10h 
 ####  📜 Conteúdo:
 - Primeiros códigos em Python
